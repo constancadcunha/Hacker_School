@@ -1,4 +1,5 @@
 import numpy
+import random
 
 class slot_rack:
     def __init__(self):
